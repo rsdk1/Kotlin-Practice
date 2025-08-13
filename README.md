@@ -20,4 +20,16 @@ This repository contains my Kotlin practice files, projects, and notes as I expl
 	•	IDE: IntelliJ IDEA / Android Studio
 	•	Version Control: Git & GitHub
 
+# 🚀 How to Use
+	1.	Clone this repository to your local machine:
+    git clone https://github.com/your-username/your-kotlin-repo.git
+	2.	Open it in your preferred IDE (IntelliJ IDEA recommended)
+	3.	Run and explore the programs!
+
+ 💬 Stay tuned for more updates as I learn and add new Kotlin code!
+
 ⸻
+AUTHOR : RajaSuma.D.K 
+Linkedin: www.linkedin.com/in/rsdk 
+Github: https://github.com/rsdk1 
+Website: https://rsdk.my.canva.site/
